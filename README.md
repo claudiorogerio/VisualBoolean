@@ -1,5 +1,5 @@
-# Algebra Visualizer
-Write your personal algebra or boolean codes 
+# Visual Boolean
+Visualize your equations on boolean algebra
 
 - Use <kbd>s</kbd> button to see algebra or boolean options 
 - Use <kbd>h</kbd> button to see help menu
